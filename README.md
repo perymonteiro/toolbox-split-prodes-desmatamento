@@ -214,6 +214,6 @@ Cada feature class contém apenas os polígonos (ou feições) cujo `class_name`
 
 ## Licença e autoria
 
-Desenvolvida para uso com dados de desmatamento no padrão PRODES, em fluxos de trabalho no **ArcGIS Pro**.
+Desenvolvida por Pery Monteiro para uso com dados de desmatamento no padrão PRODES, em fluxos de trabalho no **ArcGIS Pro**.
 
 Para dúvidas ou melhorias, documente o contexto de uso (recorte, intervalo de anos, tipo de entrada e mensagens de erro/aviso exibidas na execução).
